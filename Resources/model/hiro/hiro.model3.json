@@ -18,6 +18,11 @@
             ]
         }
     },
+    "Layout": {
+        "Width": 1.8,
+        "CenterX": 0,
+        "CenterY": -0.4
+    },
     "Groups": [
         {
             "Target": "Parameter",
